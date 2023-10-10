@@ -30,4 +30,4 @@ IT: Il programma ha un'interfaccia ma è molto semplice. Puoi creare un altro hu
 
 
 
-Agradecimientos a mi pana Raideer que me dio la ide de comer quesito y me lo comi uwu
+Agradecimientos a pablo homo y roberto el canceres
