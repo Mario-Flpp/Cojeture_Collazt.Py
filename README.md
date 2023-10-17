@@ -30,4 +30,3 @@ IT: Il programma ha un'interfaccia ma è molto semplice. Puoi creare un altro hu
 
 
 
-Agradecimientos a pablo homo y roberto el canceres
